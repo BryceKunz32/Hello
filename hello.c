@@ -7,8 +7,9 @@
     #include <stdlib.h>
     #include <stdio.h>
 
-    printf("Hello, I'm Bryce Kunz!\n")
-    printf("My Major is Computer Engineering!\n")
+    printf("Hello, I'm Bryce Kunz!\n");
+    printf("My Major is Computer Engineering!\n");
+    printf("Minor is Japanese");
 
     return 0;
  }
