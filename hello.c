@@ -2,10 +2,10 @@
  * Basic Hello World Program
  */
 
- int main(int argc, char **argv) {
+#include <stdlib.h>
+#include <stdio.h>
 
-    #include <stdlib.h>
-    #include <stdio.h>
+int main(int argc, char **argv) {
 
     printf("Hello, I'm Bryce Kunz!\n");
     printf("My Major is Computer Engineering!\n");
